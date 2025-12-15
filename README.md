@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Note: My primary professional work is conducted on private repositories due to client confidentiality and NDAs. While this activity is not publicly visible, I am an active developer. Please see my pinned open-source projects below for examples of my technical skills.
+
 <!--
 **ksgangadharan/ksgangadharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
